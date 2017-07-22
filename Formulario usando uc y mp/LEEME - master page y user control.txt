@@ -1,0 +1,21 @@
+- crear nuevo proyecto -> aplicación web vacía de asp.net
+
+- agregar nuevo elemento -> web forms con página maestra
+( .Master, Acá va el layout a usar por las hijas.
+El control asp:content place holder debe quedar vacío xq ahí se mostrarán las hijas. )
+
+- agregar nuevo elemento -> formulario web con página maestra
+( .aspx, no contiene las etiquetas html  xq serían repetitivas.
+Solo contiene el control asp:content donde se identifica en qué content palce holder
+debe mostrarse, con el atributo content place holder id.
+La primera línea corresponde a la etiqueta <%@Page> donde el atributo master page file
+indica el nombre de la maestra. )
+(si el formulario ya estaba creado, entonces borrar todas las etiquetas html, escribir
+la etiqueta asp:content y completar con el contenido correspondiente. )
+
+- agregar nuevo elemento -> control de usuario de web forms
+( .ascx, Aquí solamente estarán los controles que formen el control de usuario. 
+En su code behind, desarrollar las properties que brindan la interfaz del control. )
+( para usarlo en el formulario, simplemente arrastrar el user control dentro del
+control asp: content. )
+( el prefijo uc puede modificarse en la etiqueta <%@Register> en el atributo TagPrefix. )

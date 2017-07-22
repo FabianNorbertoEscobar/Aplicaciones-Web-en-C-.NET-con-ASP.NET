@@ -1,0 +1,4 @@
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v5\CalculadoraOperaciones\bin\Debug\CalculadoraOperaciones.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v5\CalculadoraOperaciones\bin\Debug\CalculadoraOperaciones.pdb
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v5\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v5\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.pdb

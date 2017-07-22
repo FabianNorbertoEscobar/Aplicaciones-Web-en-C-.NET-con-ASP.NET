@@ -1,0 +1,6 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\PasajeDeDatos\PasajeDeDatos\bin\PasajeDeDatos.dll.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\PasajeDeDatos\PasajeDeDatos\bin\PasajeDeDatos.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\PasajeDeDatos\PasajeDeDatos\bin\PasajeDeDatos.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\PasajeDeDatos\PasajeDeDatos\obj\Debug\PasajeDeDatos.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\PasajeDeDatos\PasajeDeDatos\obj\Debug\PasajeDeDatos.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\PasajeDeDatos\PasajeDeDatos\obj\Debug\PasajeDeDatos.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Personal\Trabajo\pw3\Ejemplos\aspnet-customvalidator\aspnet-customvalidator\bin\aspnet-customvalidator.dll
+D:\Personal\Trabajo\pw3\Ejemplos\aspnet-customvalidator\aspnet-customvalidator\bin\aspnet-customvalidator.pdb
+D:\Personal\Trabajo\pw3\Ejemplos\aspnet-customvalidator\aspnet-customvalidator\obj\Debug\aspnet-customvalidator.dll
+D:\Personal\Trabajo\pw3\Ejemplos\aspnet-customvalidator\aspnet-customvalidator\obj\Debug\aspnet-customvalidator.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\Custom Validator\aspnet-customvalidator\bin\aspnet-customvalidator.dll.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\Custom Validator\aspnet-customvalidator\bin\aspnet-customvalidator.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\Custom Validator\aspnet-customvalidator\bin\aspnet-customvalidator.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\Custom Validator\aspnet-customvalidator\obj\Debug\aspnet-customvalidator.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\Custom Validator\aspnet-customvalidator\obj\Debug\aspnet-customvalidator.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\Custom Validator\aspnet-customvalidator\obj\Debug\aspnet-customvalidator.pdb

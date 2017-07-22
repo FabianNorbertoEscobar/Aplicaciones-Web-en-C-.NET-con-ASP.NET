@@ -1,0 +1,10 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\bin\EF-EMPRESA.dll.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\bin\EF-EMPRESA.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\bin\EF-EMPRESA.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\bin\EntityFramework.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\bin\EntityFramework.SqlServer.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\bin\EntityFramework.xml
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\bin\EntityFramework.SqlServer.xml
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\obj\Debug\EF-EMPRESA.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\obj\Debug\EF-EMPRESA.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\EF-EMPRESA\EF-EMPRESA\obj\Debug\EF-EMPRESA.pdb

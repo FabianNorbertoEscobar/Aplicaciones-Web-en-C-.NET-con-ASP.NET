@@ -1,0 +1,24 @@
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\Calculadora v4\bin\Calculadora v4.dll.config
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\Calculadora v4\bin\Calculadora v4.dll
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\Calculadora v4\bin\Calculadora v4.pdb
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\Calculadora v4\bin\CalculadoraOperaciones.dll
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\Calculadora v4\bin\CalculadoraOperaciones.pdb
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\Calculadora v4\obj\Debug\Calculadora v4.csprojResolveAssemblyReference.cache
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\Calculadora v4\obj\Debug\Calculadora v4.dll
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\Calculadora v4\obj\Debug\Calculadora v4.pdb
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v4\Calculadora v4\bin\Calculadora v4.dll.config
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v4\Calculadora v4\bin\Calculadora v4.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v4\Calculadora v4\bin\Calculadora v4.pdb
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v4\Calculadora v4\bin\CalculadoraOperaciones.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v4\Calculadora v4\bin\CalculadoraOperaciones.pdb
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v4\Calculadora v4\obj\Debug\Calculadora v4.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v4\Calculadora v4\obj\Debug\Calculadora v4.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v4\Calculadora v4\obj\Debug\Calculadora v4.pdb
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v4\Calculadora v4\bin\Calculadora v4.dll.config
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v4\Calculadora v4\bin\Calculadora v4.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v4\Calculadora v4\bin\Calculadora v4.pdb
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v4\Calculadora v4\bin\CalculadoraOperaciones.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v4\Calculadora v4\bin\CalculadoraOperaciones.pdb
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v4\Calculadora v4\obj\Debug\Calculadora v4.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v4\Calculadora v4\obj\Debug\Calculadora v4.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora\Calculadora v4\Calculadora v4\obj\Debug\Calculadora v4.pdb

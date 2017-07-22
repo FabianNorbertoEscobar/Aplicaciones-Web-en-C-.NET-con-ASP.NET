@@ -1,0 +1,5 @@
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\CalculadoraOperaciones\bin\Debug\CalculadoraOperaciones.dll
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\CalculadoraOperaciones\bin\Debug\CalculadoraOperaciones.pdb
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.csprojResolveAssemblyReference.cache
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.dll
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v4\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.pdb

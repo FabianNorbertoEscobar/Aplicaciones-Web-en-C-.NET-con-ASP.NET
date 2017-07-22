@@ -1,0 +1,10 @@
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v3\CalculadoraOperaciones\bin\Debug\CalculadoraOperaciones.dll
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v3\CalculadoraOperaciones\bin\Debug\CalculadoraOperaciones.pdb
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v3\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.csprojResolveAssemblyReference.cache
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v3\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.dll
+C:\FABIAN\Desarrollo Web en .NET\Calculadora v3\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.pdb
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v3\CalculadoraOperaciones\bin\Debug\CalculadoraOperaciones.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v3\CalculadoraOperaciones\bin\Debug\CalculadoraOperaciones.pdb
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v3\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v3\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.dll
+I:\UNLaM\DESARROLLO WEB EN .NET\Aplicaciones\Calculadora v3\CalculadoraOperaciones\obj\Debug\CalculadoraOperaciones.pdb

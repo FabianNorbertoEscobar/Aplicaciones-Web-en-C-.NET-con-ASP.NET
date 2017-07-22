@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Formulario_usando_uc_y_mp.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <title>Formulario</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+<body>
+
+    <header>
+        <h1>Formulario de LogIn</h1>
+    </header>
+
+    <section>
+        <form id="form1" runat="server">
+
+        <p>Complete todos los campos para iniciar sesión</p>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContenidoPáginaHija" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+
+        </form>
+    </section>
+
+    <footer>
+        <p>Registración para acceso a la página principal</p>
+    </footer>
+
+</body>
+
+</html>

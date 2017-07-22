@@ -1,0 +1,6 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\Fútbol\Fútbol\obj\Debug\Fútbol.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\Fútbol\Fútbol\bin\Fútbol.dll.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\Fútbol\Fútbol\bin\Fútbol.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\Fútbol\Fútbol\bin\Fútbol.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\Fútbol\Fútbol\obj\Debug\Fútbol.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET\ASP.NET - Aplicaciones web\Fútbol\Fútbol\obj\Debug\Fútbol.pdb

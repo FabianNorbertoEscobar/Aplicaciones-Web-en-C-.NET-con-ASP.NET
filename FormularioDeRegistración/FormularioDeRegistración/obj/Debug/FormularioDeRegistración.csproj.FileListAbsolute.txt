@@ -1,0 +1,6 @@
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\FormularioDeRegistración\FormularioDeRegistración\bin\FormularioDeRegistración.dll.config
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\FormularioDeRegistración\FormularioDeRegistración\bin\FormularioDeRegistración.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\FormularioDeRegistración\FormularioDeRegistración\bin\FormularioDeRegistración.pdb
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\FormularioDeRegistración\FormularioDeRegistración\obj\Debug\FormularioDeRegistración.csprojResolveAssemblyReference.cache
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\FormularioDeRegistración\FormularioDeRegistración\obj\Debug\FormularioDeRegistración.dll
+I:\UNLaM\DESARROLLO WEB - POLO TECNOLÓGICO\C# - ASP.NET - Windows Forms\ASP.NET - Aplicaciones web\FormularioDeRegistración\FormularioDeRegistración\obj\Debug\FormularioDeRegistración.pdb
